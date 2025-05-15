@@ -27,9 +27,16 @@ function Footer() {
         <div className="footer-socials">
           <h4>{t('footer.followUs')}</h4>
           <div className="social-icons">
-            <a href="https://tiktok/" target="_blank" rel="noopener noreferrer"><FaTiktok /></a>
-            <a href="https://instagram.com/" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
-            <a href="https://linkedin.com/" target="" rel="noopener noreferrer"><FaLinkedinIn /></a>
+           <a 
+  href="https://www.tiktok.com/@digicityoy" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  <FaTiktok />
+</a>
+
+            <a href="https://instagram.com/@digicity21" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+           
           </div>
         </div>
 
